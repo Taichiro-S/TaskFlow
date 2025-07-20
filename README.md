@@ -2,9 +2,7 @@
 
 タスク管理のための Web アプリケーションです。フロントエンドを [Next.js](https://nextjs.org/), バックエンドを [Supabase](https://supabase.com/) で構築し、デプロイ先として [Vercel](https://vercel.com/) 、また CI/CD ツールとして [Github Actions](https://github.co.jp/features/actions) を使用しています。  
 </br>
-[こちら](https://taskflow-phi.vercel.app/)で公開しています。  
-ユーザ登録も可能ですが、デモ版は登録なしでお試しいただけます。  
-**予告なしに非公開とする場合もありますのでご了承ください。**
+アプリ自体は現在では稼働していません🙇‍♂️
 
 #### 📕 目次
 
